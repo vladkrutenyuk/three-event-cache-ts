@@ -52,14 +52,14 @@ and
 ```js
 import { EventCache } from "@vladkrutenyuk/event-cache";
 
-const cache = new EventCache({...})
+const cache = new EventCache({...});
 ```
 **UMD case**
 ```html
 <script src="https://unpkg.com/@vladkrutenyuk/event-cache/dist/eventcache.umd.min.js"></script>
-t
 ```
 ```js
 const { EventCache } = eventcache;
-const cache = new EventCache({...})
+
+const cache = new EventCache({...});
 ```

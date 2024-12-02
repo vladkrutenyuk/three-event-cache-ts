@@ -1,6 +1,6 @@
 {
   "name": "@vladkrutenyuk/event-cache",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utility for THREE.EventDispatcher to cache event data easy and neat, reducing object creation overhead. One-line get and update cached data. TypeScript support and automatic EventMap inference to keep single source of trust.",
   "homepage": "https://github.com/vladkrutenyuk/three-event-cache-ts",
   "repository": {
